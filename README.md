@@ -71,9 +71,9 @@ CSE_PROJECTS/
 
 ### 2. Closest Pair of Points
 
-![Closest Pair of Points - 1](screenshots/closestpair1.png)
+![Closest Pair of Points - 1](screenshots/closestpair_1.png)
 
-![Closest Pair of Points - 2](screenshots/closestpair2.png)
+![Closest Pair of Points - 2](screenshots/closestpair_2.png)
 
 ### 3. Budget Traveller
 
