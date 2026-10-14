@@ -55,16 +55,16 @@ A collection of four algorithm-based projects developed using Python and Java. T
 ## Screenshots
 
 ### 1. Maze Solver
-![Maze Solver](screenshots/maze-solver.png)
+![Maze Solver](screenshots/maze.png)
 
 ### 2. Closest Pair of Points
-![Closest Pair of Points](screenshots/closest-pair.png)
-
+![Closest Pair of Points](screenshots/closestpair1.png)
+![Closest Pair of Points](screenshots/closestpair2.png)
 ### 3. Budget Traveller
-![Budget Traveller](screenshots/budget-traveller.png)
-
+![Budget Traveller](screenshots/budget_traveller1.png)
+![Budget Traveller](screenshots/budget_traveller2.png)
 ### 4. Exam Timetable Scheduler
-![Exam Timetable Scheduler](screenshots/exam-timetable.png)
+![Exam Timetable](screenshots/exam_time_table.png)
 CSE_PROJECTS/
 ├── Problem1_Maze/
 ├── Problem2_ClosestPair/
