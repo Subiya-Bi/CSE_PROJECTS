@@ -1,6 +1,6 @@
 # CSE Hackathon Projects
 
-A collection of four algorithm-based projects developed using Python and Java. These projects demonstrate problem-solving skills, algorithm design, data structures, and graphical user interface development.
+A collection of four algorithm-based projects developed using Python and Java. These projects demonstrate problem-solving skills, algorithm design, and graphical user interface development.
 
 ## Projects
 
@@ -26,7 +26,7 @@ A collection of four algorithm-based projects developed using Python and Java. T
 ### 4. Exam Timetable Scheduler
 - **Language:** Python
 - **Algorithm:** Graph Coloring
-- Assigns exam time slots while avoiding scheduling conflicts between subjects with shared students.
+- Assigns exam time slots while avoiding scheduling conflicts.
 - Provides a graphical interface for timetable scheduling.
 
 ## Technologies Used
@@ -42,9 +42,11 @@ A collection of four algorithm-based projects developed using Python and Java. T
 ## Getting Started
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/Subiya-Bi/CSE_PROJECTS.git
    ```
+
 2. Open the required project folder in VS Code.
 3. Run the appropriate Python or Java source file.
 4. Follow the input and execution instructions for that project.
@@ -52,26 +54,36 @@ A collection of four algorithm-based projects developed using Python and Java. T
 ## Repository Structure
 
 ```text
-## Screenshots
-
-### 1. Maze Solver
-![Maze Solver](screenshots/maze.png)
-
-### 2. Closest Pair of Points
-![Closest Pair of Points](screenshots/closestpair1.png)
-![Closest Pair of Points](screenshots/closestpair2.png)
-### 3. Budget Traveller
-![Budget Traveller](screenshots/budget_traveller1.png)
-![Budget Traveller](screenshots/budget_traveller2.png)
-### 4. Exam Timetable Scheduler
-![Exam Timetable](screenshots/exam_time_table.png)
 CSE_PROJECTS/
 ├── Problem1_Maze/
 ├── Problem2_ClosestPair/
 ├── Problem3_BudgetTraveller/
 ├── Problem4_ExamTimetable/
+├── screenshots/
 └── README.md
 ```
+
+## Screenshots
+
+### 1. Maze Solver
+
+![Maze Solver](screenshots/maze.png)
+
+### 2. Closest Pair of Points
+
+![Closest Pair of Points - 1](screenshots/closestpair1.png)
+
+![Closest Pair of Points - 2](screenshots/closestpair2.png)
+
+### 3. Budget Traveller
+
+![Budget Traveller - 1](screenshots/budget_traveller1.png)
+
+![Budget Traveller - 2](screenshots/budget_traveller2.png)
+
+### 4. Exam Timetable Scheduler
+
+![Exam Timetable Scheduler](screenshots/exam_time_table.png)
 
 ## Purpose
 
@@ -79,5 +91,6 @@ These projects were developed to practice algorithm implementation, programming,
 
 ---
 
-**Author:** Subiya Bi  
+**Author:** Subiya Bi
+
 **GitHub:** [Subiya-Bi](https://github.com/Subiya-Bi)
