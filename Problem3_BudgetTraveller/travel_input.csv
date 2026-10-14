@@ -1,0 +1,16 @@
+RecordType,Source,Destination,MaxStops,Coupons,From,To,Price
+SETTINGS,Bangalore,Kolkata,3,2,,,
+FLIGHT,,,,,Bangalore,Chennai,350
+FLIGHT,,,,,Bangalore,Hyderabad,300
+FLIGHT,,,,,Bangalore,Pune,600
+FLIGHT,,,,,Chennai,Hyderabad,250
+FLIGHT,,,,,Chennai,Kochi,400
+FLIGHT,,,,,Chennai,Kolkata,800
+FLIGHT,,,,,Hyderabad,Mumbai,500
+FLIGHT,,,,,Hyderabad,Kolkata,650
+FLIGHT,,,,,Mumbai,Delhi,450
+FLIGHT,,,,,Mumbai,Pune,200
+FLIGHT,,,,,Delhi,Kolkata,250
+FLIGHT,,,,,Pune,Delhi,300
+FLIGHT,,,,,Pune,Kolkata,700
+FLIGHT,,,,,Kochi,Mumbai,550
