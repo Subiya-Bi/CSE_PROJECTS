@@ -52,6 +52,19 @@ A collection of four algorithm-based projects developed using Python and Java. T
 ## Repository Structure
 
 ```text
+## Screenshots
+
+### 1. Maze Solver
+![Maze Solver](screenshots/maze-solver.png)
+
+### 2. Closest Pair of Points
+![Closest Pair of Points](screenshots/closest-pair.png)
+
+### 3. Budget Traveller
+![Budget Traveller](screenshots/budget-traveller.png)
+
+### 4. Exam Timetable Scheduler
+![Exam Timetable Scheduler](screenshots/exam-timetable.png)
 CSE_PROJECTS/
 ├── Problem1_Maze/
 ├── Problem2_ClosestPair/
